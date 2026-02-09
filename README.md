@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é um site portfólio que tem por objetivo apresentar projetos desenvolvidos, bem como suas tecnologias, uma breve apresentação "Sobre mim" e também um formulário para contato. Minimalista e direto ao ponto, o propósito é, em poucas sessões, demonstrar conhecimentos, experiências e habilidades ao cliente ou recrutador. Também é possível realizar o download do currículo.
 
-- [Acesse o projeto finalizado, online](https://rodrigoserrasqueiro.github.io/Portfolio)
+- [Acesse o projeto finalizado, online](LINK DO MEU GITHUB)
 
 ## 📝 Instruções
 
@@ -43,7 +43,7 @@ Abra o terminal do seu sistema operacional e navegue até o diretório onde dese
 
 Digite o seguinte comando para clonar o repositório:
 
-`git clone https://github.com/RodrigoSerrasqueiro/Portfolio.git`
+`git clone LINK DO MEU GITHUB
 
 ### Executando o projeto
 
@@ -59,4 +59,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por: Rodrigo Serrasqueiro [Dê uma olhada no meu portfólio!](https://rodrigoserrasqueiro.github.io/Portfolio)
+Desenvolvido por: Pedro Enrique Simões [Dê uma olhada no meu portfólio!](LINK DO GITHUB)
